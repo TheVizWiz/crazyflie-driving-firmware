@@ -6,6 +6,8 @@
     },
     "files.associations": {
         "bootloader.h": "c",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "deck.h": "c",
+        "param.h": "c"
     }
 }
